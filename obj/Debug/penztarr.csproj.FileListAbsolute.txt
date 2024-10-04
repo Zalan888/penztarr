@@ -1,0 +1,7 @@
+C:\Users\witmannz\gitWork\penztarr\bin\Debug\penztarr.exe.config
+C:\Users\witmannz\gitWork\penztarr\bin\Debug\penztarr.exe
+C:\Users\witmannz\gitWork\penztarr\bin\Debug\penztarr.pdb
+C:\Users\witmannz\gitWork\penztarr\obj\Debug\penztarr.csproj.AssemblyReference.cache
+C:\Users\witmannz\gitWork\penztarr\obj\Debug\penztarr.csproj.CoreCompileInputs.cache
+C:\Users\witmannz\gitWork\penztarr\obj\Debug\penztarr.exe
+C:\Users\witmannz\gitWork\penztarr\obj\Debug\penztarr.pdb
