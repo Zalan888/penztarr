@@ -19,9 +19,20 @@ namespace penztarr
                 money[i] = Convert.ToInt32(Console.ReadLine());
             }
         }
+
+        public static int income()
+        {
+            int sum = 0;
+            for (int i = 0; i < notes.Length; i++)
+            {
+                sum += notes[i] * money[i];
+            }
+            return sum;
+        }
         static void Main(string[] args)
         {
             input();
+            Console.WriteLine($"A napi bevétel:{income()}");
         }
     }
 }
